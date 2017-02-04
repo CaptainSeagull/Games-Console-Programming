@@ -29,3 +29,10 @@ chmod +x build.py
 * -o   = Build with optimisations.
 
 After the program has run you can find the output of the images located right next to the executable.
+
+Below are two screenshots. The first if the original image, and the second is the generated image.
+
+![Alt text](https://github.com/CaptainSeagull/Games-Console-Programming/blob/master/screenshot_input.bmp?raw=true "")
+
+
+![Alt text](https://github.com/CaptainSeagull/Games-Console-Programming/blob/master/screenshot_output.bmp?raw=true "")
